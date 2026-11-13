@@ -1,16 +1,18 @@
-## Hi there 👋
+ Olá, eu sou o Arthur Oliveira Silva 👋
 
-<!--
-**ArtzSilva/ArtzSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação, com foco em **UX e Produto**.
+Gosto de entender o problema do usuário antes de pensar na solução.
 
-Here are some ideas to get you started:
+ 🔭 Atualmente
+- Estudando HTML, CSS, pesquisa com usuários e usabilidade
+- Praticando: transformar projetos de código em experiências melhores
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️ Ferramentas
+HTML • CSS • Git/GitHub • Figma
+
+ 📌 Destaque
+Meu projeto fixado: [Projeto Final HTML](https://github.com/ArtzSilva/Projeto-final-HTML-21-09-2026)
+
+ 📫 Contato
+- LinkedIn: Arthur Silva 
+- E-mail: a2007j1980@gmailo.com  
