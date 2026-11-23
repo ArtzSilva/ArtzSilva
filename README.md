@@ -61,16 +61,15 @@ Gosto de entender o problema do usuário **antes** de pensar na solução.
 </p>
 
 ---
-
 ## 📫 Contato
 
 <p align="center">
-<a href="https://www.linkedin.com/in/SEU-LINK-AQUI">
-<img src="https://img.shields.io/badge/LinkedIn-Arthur%20Silva-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=e0e0e0&labelColor=000000"/>
-</a>
-<a href="mailto:a2007j1980@gmailo.com">
-<img src="https://img.shields.io/badge/E--mail-Fale%20comigo-1c1c1c?style=for-the-badge&logo=gmail&logoColor=e0e0e0&labelColor=000000"/>
-</a>
+  <a href="https://www.linkedin.com/in/arthur-silva-0291133b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Silva-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=e0e0e0&labelColor=000000"/>
+  </a>
+  <a href="mailto:a2007j1980@gmailo.com">
+    <img src="https://img.shields.io/badge/E--mail-Fale%20comigo-1c1c1c?style=for-the-badge&logo=gmail&logoColor=e0e0e0&labelColor=000000"/>
+  </a>
 </p>
 
 <!-- ============ RODAPÉ 3D ============ -->
